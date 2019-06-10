@@ -1,4 +1,4 @@
-package com.acme.service.consumer;
+package com.acme.service.provider;
 
 import com.acme.service.api.Service;
 import javax.decorator.Decorator;
